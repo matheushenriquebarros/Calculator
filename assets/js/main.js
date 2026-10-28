@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 function Calculadora() {
     this.display = document.querySelector('.display');
 
